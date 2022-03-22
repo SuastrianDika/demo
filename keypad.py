@@ -1,3 +1,5 @@
+#CONNECTING RASPBERRY PI AND OLED
+
 import RPi.GPIO as GPIO
 import time
 
